@@ -1,0 +1,17 @@
+/**
+ * File: style.css
+ * Description: Main stylesheet for the cake shop website.
+ * Author: [Amar Sing]
+ * Version: 1.0
+ * Date: [15/03/2024]
+ */
+
+/*------------------------------------*\
+    #RESET
+\*------------------------------------*/
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}

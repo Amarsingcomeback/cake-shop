@@ -1,0 +1,9 @@
+/* Example media query for tablets */
+@media only screen and (max-width: 768px) {
+  /* Styles for tablets */
+}
+
+/* Example media query for mobile devices */
+@media only screen and (max-width: 480px) {
+  /* Styles for mobile devices */
+}
